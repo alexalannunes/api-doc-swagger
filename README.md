@@ -19,3 +19,7 @@ Let's play :fire:
 **documentation**
 
 [http://localhost:3999/api-docs](http://localhost:3999/api-docs)
+
+
+**To do**
+- [ ] generate path automatically
