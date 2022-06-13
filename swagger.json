@@ -1,0 +1,21 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Status API",
+    "description": "Show status",
+    "version": "1.0.0"
+  },
+  "basePath": "/",
+  "paths": {
+    "/": {
+      "get": {
+        "description": "Show status",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  }
+}
